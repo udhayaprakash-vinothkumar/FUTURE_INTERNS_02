@@ -1,4 +1,4 @@
-# 🌟 Keerthana V | Portfolio + Mini E-Commerce Site
+# 🌟 Udhaya Prakash V | Portfolio + Mini E-Commerce Site
 
 Welcome to my personal portfolio and interactive project site! This project highlights my web development skills using HTML, CSS, and JavaScript, with some fun features like a cart system, light/dark mode, contact form, and comment section.
 
@@ -88,7 +88,7 @@ To test:
 
 ## 🙋‍♀️ About Me
 
-Hi, I’m Keerthana V — a frontend developer and tech enthusiast. I love building clean, user-friendly websites and apps.
+Hi, I’m Udhaya Prakash V — a frontend developer and tech enthusiast. I love building clean, user-friendly websites and apps.
 
 Check out my work in the Projects section!
 
@@ -102,8 +102,8 @@ Email: udhayaprakashv.24@gmail.com
 
 LinkedIn:https://www.linkedin.com/in/udhaya-prakash-v-022b22374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-GitHub: 
+GitHub: https://github.com/account
 
 ---
 
-© 2025 Keerthana V. All rights reserved.
+© 2025 Udhaya Prakash V. All rights reserved.
